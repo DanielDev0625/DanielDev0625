@@ -14,7 +14,7 @@
 
 ## Información institucional
 
-| | |
+| Dato | Información |
 |---|---|
 | **Nombre** | Daniel de Jesús Sánchez Sierra |
 | **Programa** | Técnico Profesional en Desarrollo de Software |
@@ -22,6 +22,25 @@
 | **Semestre** | 2.º semestre |
 | **Correo institucional** | [dsanchezs3@cuc.edu.co](mailto:dsanchezs3@cuc.edu.co) |
 | **Ubicación** | Barranquilla, Colombia |
+| **GitHub** | [DanielDev0625](https://github.com/DanielDev0625) |
+
+---
+
+## Emprendimiento
+
+<p align="center">
+  <a href="https://suva-software.vercel.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./logo-suva-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./logo-suva-light.png" />
+      <img src="./logo-suva-dark.png" alt="SUVA Enterprise Software Architecture" width="320" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  Cofundador de SUVA Enterprise Software Architecture, empresa de desarrollo de software en Barranquilla enfocada en soluciones a la medida, aplicaciones y automatización.
+</p>
 
 ---
 
@@ -30,9 +49,9 @@
 | Intereses | Gustos | Pasatiempos |
 |---|---|---|
 | Desarrollo de aplicaciones móviles | Construir productos que resuelvan problemas reales | Videojuegos de estrategia, fútbol y acción |
-| Desarrollo web y APIs | Aprender tecnologías nuevas | Crear contenido de programación en YouTube |
+| Desarrollo web y APIs | La música y aprender tecnologías nuevas | Crear contenido de programación en YouTube |
 | Automatización con Python | Emprender con proyectos propios | Programar proyectos personales |
-| Arquitectura de software y nube | Trabajar en equipo | |
+| Arquitectura de software y nube | Trabajar en equipo | Escuchar música mientras programo |
 
 ---
 
@@ -67,8 +86,16 @@
 ## Estadísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielDev0625&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDev0625&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumen de contribuciones" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estadísticas de GitHub" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Lenguajes con más commits" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DanielDev0625&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </p>
 
 ---
