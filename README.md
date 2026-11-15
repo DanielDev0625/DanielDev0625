@@ -3,26 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=720&lines=Estudiante+de+Desarrollo+de+Software+en+la+CUC;Aplicaciones+m%C3%B3viles+con+Flutter;APIs+con+FastAPI+y+Next.js;Automatizaci%C3%B3n+de+procesos+con+Python;Cofundador+de+SUVA+Enterprise+Software+Architecture" alt="Presentación animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=720&lines=Aplicaciones+m%C3%B3viles+con+Flutter;APIs+con+FastAPI+y+Next.js;Automatizaci%C3%B3n+de+procesos+con+Python;Software+para+negocios+reales" alt="Presentación animada" />
 </p>
 
 <p align="center">
   <img src="./logo-cuc.png" alt="Universidad de la Costa" width="280" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Universidad_de_la_Costa-CUC-1E40AF?style=for-the-badge" alt="Universidad de la Costa" />
-  <img src="https://img.shields.io/badge/Semestre-2.%C2%BA-1E40AF?style=for-the-badge" alt="Semestre" />
-  <img src="https://img.shields.io/badge/Barranquilla-Colombia-1E40AF?style=for-the-badge" alt="Barranquilla, Colombia" />
-</p>
-
 <!-- ===================== INFORMACIÓN INSTITUCIONAL ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=56&text=Informaci%C3%B3n%20institucional&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" alt="Información institucional" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Universidad+de+la+Costa+%C2%B7+CUC;T%C3%A9cnico+Profesional+en+Desarrollo+de+Software;Segundo+semestre" alt="" />
 </p>
 
 <table align="center">
@@ -45,10 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=SUVA+Enterprise+Software+Architecture;Software+a+la+medida%2C+apps+y+automatizaci%C3%B3n" alt="" />
-</p>
-
-<p align="center">
   <a href="https://suva-software.vercel.app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./logo-suva-dark.png" />
@@ -68,10 +54,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=56&text=Intereses%2C%20gustos%20y%20pasatiempos&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" alt="Intereses, gustos y pasatiempos" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Apps+m%C3%B3viles+%C2%B7+Web+%C2%B7+Automatizaci%C3%B3n;M%C3%BAsica%2C+videojuegos+y+aprender+cosas+nuevas" alt="" />
-</p>
-
 <table align="center">
   <tr>
     <th><img src="./spacer.png" width="250" height="1" alt="" /><br />Intereses</th>
@@ -87,10 +69,6 @@
 <!-- ===================== TECNOLOGÍAS ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=56&text=Tecnolog%C3%ADas&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" alt="Tecnologías" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Python+%C2%B7+PHP+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+Dart;Flutter+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js;PostgreSQL+%C2%B7+Git+%C2%B7+GitHub" alt="" />
 </p>
 
 <table align="center">
@@ -119,10 +97,6 @@
 <!-- ===================== PROYECTOS ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=56&text=Proyectos&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" alt="Proyectos" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=SUVA+%C2%B7+NOVATECH+%C2%B7+MartGo" alt="" />
 </p>
 
 <table align="center">
@@ -154,10 +128,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="" />
-</p>
-
-<p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumen de contribuciones" width="100%" />
 </p>
 
@@ -173,10 +143,6 @@
 <!-- ===================== CONTACTO ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=56&text=Contacto&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=fadeIn" alt="Contacto" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=dsanchezs3%40cuc.edu.co;Hablemos+de+software" alt="" />
 </p>
 
 <p align="center">
