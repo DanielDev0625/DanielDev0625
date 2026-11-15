@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=720&lines=Aplicaciones+m%C3%B3viles+con+Flutter;APIs+con+FastAPI+y+Next.js;Automatizaci%C3%B3n+de+procesos+con+Python;Software+para+negocios+reales" alt="Presentación animada" />
-</p>
-
-<p align="center">
   <img src="./logo-cuc.png" alt="Universidad de la Costa" width="280" />
 </p>
 
