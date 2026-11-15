@@ -11,9 +11,13 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
       - name: Generar tarjetas de estadisticas
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+  
